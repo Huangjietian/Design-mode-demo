@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>simple-factory-pattern</artifactId>
+    <artifactId>abstract-factory-pattern</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>cn.kerninventory</groupId>
-            <artifactId>design-demo-util</artifactId>
-            <version>1.0.0-FINAL</version>
-        </dependency>
-    </dependencies>
+
 </project>

@@ -11,5 +11,11 @@
 
     <artifactId>factory-method-pattern</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>cn.kerninventory</groupId>
+            <artifactId>design-demo-util</artifactId>
+            <version>1.0.0-FINAL</version>
+        </dependency>
+    </dependencies>
 </project>

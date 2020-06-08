@@ -9,6 +9,9 @@
     <modules>
         <module>simple-factory-pattern</module>
         <module>factory-method-pattern</module>
+        <module>design-mode-util</module>
+        <module>abstract-factory-pattern</module>
+        <module>builder-pattern</module>
     </modules>
     <packaging>pom</packaging>
 
