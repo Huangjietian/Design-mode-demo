@@ -12,6 +12,8 @@
         <module>design-mode-util</module>
         <module>abstract-factory-pattern</module>
         <module>builder-pattern</module>
+        <module>prototype-pattern</module>
+        <module>singleton-pattern</module>
     </modules>
     <packaging>pom</packaging>
 
