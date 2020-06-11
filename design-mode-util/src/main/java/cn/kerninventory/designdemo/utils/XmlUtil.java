@@ -46,7 +46,6 @@ public class XmlUtil {
         return node.getNodeValue().trim();
     }
 
-
     public static String getFactoryMethodPatternFactoryName() {
         return getXmlConfigElement("factoryType");
     }

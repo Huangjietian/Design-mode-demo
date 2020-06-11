@@ -7,4 +7,5 @@
     <factory-method>
         <factoryType>cn.kerninventory.designmode.factorymethod.FactoryB</factoryType>
     </factory-method>
+
 </config>
