@@ -21,9 +21,21 @@
         <module>facade-pattern</module>
         <module>flyweight-pattern</module>
         <module>proxy-pattern</module>
+        <module>chain-of-responsibility-pattern</module>
+        <module>command-pattern</module>
+        <module>interpreter-pattern</module>
+        <module>Iterator-pattern</module>
+        <module>mediator-pattern</module>
     </modules>
     <packaging>pom</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.4</version>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>

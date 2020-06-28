@@ -1,5 +1,6 @@
 package cn.kerninventory.designmode.proxy;
 
+
 /**
  * <h1>中文注释</h1>
  * <p>一句话描述</p>
