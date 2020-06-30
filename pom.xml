@@ -6,6 +6,7 @@
     <groupId>cn.kerninventory</groupId>
     <artifactId>design-mode-demo</artifactId>
     <version>1.0.0-FINAL</version>
+    <packaging>pom</packaging>
     <modules>
         <module>simple-factory-pattern</module>
         <module>factory-method-pattern</module>
@@ -33,7 +34,6 @@
         <module>template-method-pattern</module>
         <module>visitor-pattern</module>
     </modules>
-    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>
